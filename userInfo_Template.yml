@@ -1,0 +1,2 @@
+phoneAddress: '<phone number>@<carriers text server>'
+quizLink: '<Google forms link (prefilled) with a specific time replaced by "{0:02d}:{1:02d}">'
